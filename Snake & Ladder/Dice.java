@@ -1,0 +1,3 @@
+interface Dice {
+    int roll();
+}
